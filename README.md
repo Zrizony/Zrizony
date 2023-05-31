@@ -3,7 +3,7 @@
 
 - 🔑 Highly motivated, focusing on problem solving and detailed orientation, adapting quickly to new environments. **loves new challenges.**
 
-- 💻 Go Check out my latest project as of right now [Better.](https://betterr-app.onrender.com/?nav=home)
+- 💻 Go Check out my latest project as of right now [Betterr.](https://betterr-app.onrender.com/?nav=home)
 
 - 📫 Feel free to contact me anytime at **royyam99@gmail.com**
 
