@@ -3,7 +3,6 @@
 
 - 🔑 Highly motivated, focusing on problem solving and detailed orientation, adapting quickly to new environments. **loves new challenges.**
 
-- 💻 Go Check out my latest project as of right now [Betterr.](https://betterr-app.onrender.com/?nav=home)
 
 - 📫 Feel free to contact me anytime at **royyam99@gmail.com**
 
@@ -11,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roy yam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy yam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roy-yam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy yam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
